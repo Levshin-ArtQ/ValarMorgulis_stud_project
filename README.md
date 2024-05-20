@@ -1,5 +1,4 @@
 # Valar Morghulis Online-RPG
-# Valar Morghulis Online-RPG
 
 ## Описание
 
@@ -96,7 +95,5 @@ docker-compose up --build
 ```
 
 Убедитесь, что у вас установлены все зависимости.
-
-# ValarMorgulis_stud_project
 
 # ValarMorgulis_stud_project
