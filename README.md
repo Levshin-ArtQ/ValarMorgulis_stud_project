@@ -98,9 +98,12 @@ docker-compose up --build
 
 ## Примеры
 ### Авторизация
-<img width="1452" alt="Screenshot 2024-05-20 at 13 43 46" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/d8bcc45a-d2f4-4129-abce-10b7befcafb8">
+<img width="1342" alt="Screenshot 2024-05-20 at 13 37 19" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/28e297f8-c9ba-4bef-bbc5-b78b1cf26c72">
+
+
 ### Регистрация
 <img width="1452" alt="Screenshot 2024-05-20 at 13 43 54" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/c7914f1e-0e85-4e80-94f1-5bd84df030b9">
+
 ### CRUD
 <img width="1452" alt="Screenshot 2024-05-20 at 13 46 26" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/b75167f4-c849-4486-9ea8-61fcf07835d2">
 <img width="1452" alt="Screenshot 2024-05-20 at 13 44 35" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/35c1f248-9a87-4333-8bc9-71db722844c9">
