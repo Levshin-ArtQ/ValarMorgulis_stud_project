@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+  background: var(--main-bg-color);
+  /* background: var(--tg-theme-bg-color, var(--main-bg-color)); */
+  color: var(--tg-theme-text-color, var(--main-font-color));
+}
+
+.subheading {
+  font-size: clamp(25px, 4vw, 40px);
+}
+
+.heading {
+  font-size: 30px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
