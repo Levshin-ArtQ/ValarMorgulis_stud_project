@@ -96,4 +96,14 @@ docker-compose up --build
 
 Убедитесь, что у вас установлены все зависимости.
 
+## Примеры
+### Авторизация
+<img width="1452" alt="Screenshot 2024-05-20 at 13 43 46" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/d8bcc45a-d2f4-4129-abce-10b7befcafb8">
+### Регистрация
+<img width="1452" alt="Screenshot 2024-05-20 at 13 43 54" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/c7914f1e-0e85-4e80-94f1-5bd84df030b9">
+### CRUD
+<img width="1452" alt="Screenshot 2024-05-20 at 13 46 26" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/b75167f4-c849-4486-9ea8-61fcf07835d2">
+<img width="1452" alt="Screenshot 2024-05-20 at 13 44 35" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/35c1f248-9a87-4333-8bc9-71db722844c9">
+<img width="1452" alt="Screenshot 2024-05-20 at 13 46 18" src="https://github.com/Levshin-ArtQ/ValarMorgulis_stud_project/assets/114755543/635cd0bd-ca6a-411e-9db2-27da938c80ea">
+
 # ValarMorgulis_stud_project
